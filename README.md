@@ -1,4 +1,4 @@
-###### Endless Runner Game
+# Endless Runner Game
 ### What is This ?
 * It is a basic game which you try to avoid obstacles that are randomly spawning in your screen until you die.
 ### How To Play ?
